@@ -10,5 +10,5 @@ comes in 2 versions :<ul>
 </ul>
 <br/>
 For p=3 : 1^3 + 12^3 = 9^3 + 10^3 = 1729 (discovered in 1657 by Bernard Frénicle de Bessy)<br/>
-For p=4 : 7^4 + 239^4 = 157^4 + 227^4 = 3262811042<br/>
+For p=4 : 59^4 + 158^4 = 133^4 + 134^4 = 635318657<br/>
 So far (09/2020), no taxicab number was found for p>=5.
