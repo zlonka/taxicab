@@ -9,6 +9,6 @@ comes in 2 versions :<ul>
 <li>Visual C++ : fast but with limited numbers (i.e. a<7131 for p=5)</li>
 </ul>
 <br/>
-For p=3 : 1^3 + 12^3 = 9^3 + 10^3 = 1729 (discovered in 1657 by Bernard Frénicle de Bessy)
-For p=4 : 7^4 + 239^4 = 157^4 + 227^4 = 3262811042
+For p=3 : 1^3 + 12^3 = 9^3 + 10^3 = 1729 (discovered in 1657 by Bernard Frénicle de Bessy)<br/>
+For p=4 : 7^4 + 239^4 = 157^4 + 227^4 = 3262811042<br/>
 So far (09/2020), no taxicab number was found for p>=5.
